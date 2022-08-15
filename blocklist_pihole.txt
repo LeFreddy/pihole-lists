@@ -96,3 +96,6 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Scien
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/HP.txt
+https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
+https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
