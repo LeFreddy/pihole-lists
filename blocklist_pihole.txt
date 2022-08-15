@@ -89,3 +89,9 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
 https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt
+https://dbl.oisd.nl/ 
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
+https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/all.txt
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
