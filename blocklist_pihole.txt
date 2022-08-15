@@ -99,3 +99,4 @@ https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/HP.txt
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting
