@@ -95,3 +95,4 @@ https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/all.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/HP.txt
